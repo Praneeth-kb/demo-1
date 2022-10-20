@@ -2,7 +2,7 @@
 a=130
 b=205
 a,b=b,a
-print('The value of a:',a)
-print('The value of b:',b)
-print(a)
+print('The value of a: ',a)
+print('The value of b: ',b)
+
 
